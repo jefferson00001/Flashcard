@@ -41,7 +41,7 @@
 
         Assets/style.css
 
-        body{
+body{
     background-color: blueviolet;
     color: aqua;
     text-align: center;
@@ -52,6 +52,7 @@ footer{
     position: fixed;
     bottom: 0;
     width: 100%;
+    height: 0.60rem;
 }
 footer p{
     text-align: center;
