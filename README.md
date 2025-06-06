@@ -10,40 +10,42 @@
     <main>
 <section id="container">
     <article class="cartao">
-        <div class="cartao__conteudo">
-            <h3>pokémon</h3>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="stylesheet" href="assets/style.css">
+            <title>Flashcard</title>
+            </head>
+            <body>
+            <main>
+            <section id="container">
+            <article class="cartao">
+            <div class="cartao__conteudo">
+            <h3>programaçao</h3>
             <div class="cartao__conteudo__pergunta">
-            <P>o que são os pokémons?</P>
+            <P>o que é java script?</P>
             </div>
             <div class="cartao__conteudo__resposta">
-                <P>Concebido por Satoshi Tajiri no início de 1989, os Pokémon são criaturas que habitam o mundo fictício Pokémon. 
-                Os projetos para a multiplicidade de espécies podem inspirar-se em qualquer coisa como animais, plantas, criaturas mitológicas e até objetos inanimados.
-                </P>
+            <P>
+            O Java Script é uma linguagem de programação.
+            </P>
             </div>
-    <article class="cartao">
-        <div class="cartao__conteudo">
-            <h3>pokémon</h3>
+            <article class="cartao">
+            <div class="cartao__conteudo">
+            <h3> Programação </h3>
             <div class="cartao__conteudo__pergunta">
-            <P>como surgiu pokémons?</P>
-            </div>
+            O que é CSS?
+            </div>                        
             <div class="cartao__conteudo__resposta">
-                <p>A série dos “Monstros de Bolso” 
-                    começou quando o criador de jogos 
-                    e presidente da Game Freak, Satoshi Tajiri, 
-                    teve uma ideia inspirada em suas experiências 
-                    de captura de insetos na escola, quando ainda era criança.
-                </P>
+            O CSS é uma linguagem de estilização.
             </div>
-        </div>
-    </article>
-</main>
-</section>
-    <footer>
-Projeto feito por um aluno do Alura sem fins lucrativos,apenas estudos
-    </footer>
-        </body>
-</html>
-
+            </div>
+            </article>
+            </main>
+            </section>
+            <footer>
+            <p>Projeto desenvolvido pela Alura, sem fins lucrativos.</p>
+            </footer>
+            </body>
 
         Assets/style.css
 
